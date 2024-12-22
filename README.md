@@ -2,6 +2,13 @@
 
 This is a Streamlit-based application that allows users to upload a PDF file and interact with its content through a chat interface. The app uses LangChain and OpenAI's GPT-4o-mini model to process the PDF and answer questions based on its content.
 
+## Access the Application
+
+This app is hosted on HuggingFace Spaces. You can access it [here](https://jithinvijaydazz-pdf-chat.hf.space/).
+
+## Screenshot
+![Screenshot of the Application](images/screenshot.png)
+
 ## Features
 
 - **Upload PDF**: Users can upload a PDF file (up to 2 MB).
@@ -126,10 +133,5 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 - LangChain
 - OpenAI
 
-## Access the Application
 
-This app is hosted on HuggingFace Spaces. You can access it [here](https://jithinvijaydazz-pdf-chat.hf.space/).
-
-## Screenshot
-![Screenshot of the Application](images/screenshot.png)
 
